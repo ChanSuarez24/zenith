@@ -8,7 +8,7 @@ const days = document.querySelector(".days");
 let defSeconds = 12;
 let defMinutes = 7;
 let defHours = 3;
-let defDays = 10;
+let defDays = 8;
 
 // TimeFunction for calculating remaining time
 const timeFunction = setInterval(() => {
